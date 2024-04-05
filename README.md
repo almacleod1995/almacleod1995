@@ -19,27 +19,22 @@ Hello, I'm Alexander MacLeod, a Full Stack Developer with a passion for software
 ### Technologies & Tools
 - Django
 - Flask
-- React.js
-- Vue.js
 - Node.js
 - Kali Linux
-- Burp Suite
-- Wireshark
+
 
 ## Projects
 
 Here are a few projects I've been working on:
 
-1. [Offline Internet](https://github.com/YourGitHubUsername/offline-internet): A project aimed at creating an offline internet system using Raspberry Pi.
-2. [E-commerce Website](https://github.com/YourGitHubUsername/e-commerce-website): A full-stack e-commerce website built with Django and React.js.
-3. [Penetration Testing Toolkit](https://github.com/YourGitHubUsername/penetration-testing-toolkit): A collection of scripts and tools for penetration testing and ethical hacking.
+1. Addictions & Mental Health Therapy Platform with integrated Ai Therapists .
+2. Integrating my on-going projects with my Github Account. 
 
 ## Connect with Me
 
-Let's connect and collaborate! You can find me on:
+Let's connect and collaborate! You can contact me at:
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
-- [Twitter](https://twitter.com/yourtwitterprofile/)
-- [Personal Website](https://www.yourwebsite.com)
+- amacleod@blackdiamondtherapy.ca
+- Current Domains : blackdiamondtherapy.ca / [
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Thanks for visiting!
